@@ -11,4 +11,3 @@ You can click the Preview link to take a look at your changes.
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaanandz&show_icons=true&theme=radical)](https://github.com/adityaanandz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaanandz&langs_count=8)](https://github.com/adityaanandz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaanandz&layout=compact)](https://github.com/adityanandz/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
