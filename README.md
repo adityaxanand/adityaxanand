@@ -1,6 +1,4 @@
 - 👋 Hi, I’m [@Aditya](https://github.com/adityaanandz)
-- 👀 I’m interested in Programming, Music, Dancing & Choreography...
-- 🌱 I’m currently learning...
 
 <!---
 adityaanandz/adityaanandz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
